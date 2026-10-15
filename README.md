@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=milar111&project=Corne&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Budget Wireless Corne Keyboard Build
 
 A DIY wireless split keyboard based on the Corne layout, built for approximately $25 USD. This project uses a ProMicro clone with nrf52840 chip, making it a cost-effective alternative to traditional wireless split keyboard builds.
